@@ -17,4 +17,5 @@ python train.py
 python -m streamlit run app.py
 
 ## 📊 Model Performansı
-- Test Doğruluğu: %XX (eğitim bitince yaz)
+
+- Test Doğruluğu: %84
